@@ -1,0 +1,7 @@
+SpeechRecognition
+pydub
+stanza
+deepmultilingualpunctuation
+torch
+transformers
+findspark
